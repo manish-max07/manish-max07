@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/v8FGPdzR/30dqX22q.jpg)](https://i.postimg.cc/v8FGPdzR/30dqX22q.jpg)
+[![MasterHead](https://postimg.cc/G9QkrmMK)](https://postimg.cc/G9QkrmMK)
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>

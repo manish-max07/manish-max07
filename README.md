@@ -1,4 +1,4 @@
-[![MasterHead](https://postimg.cc/G9QkrmMK)](https://postimg.cc/G9QkrmMK)
+[![MasterHead](https://i.postimg.cc/kXrwQVK0/Colorful-Photo-Rainbow-Facebook-Cover.png)](https://i.postimg.cc/kXrwQVK0/Colorful-Photo-Rainbow-Facebook-Cover.png)
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>

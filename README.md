@@ -42,7 +42,18 @@
 
 Full Stack Developer with hands-on experience building scalable web applications using **React, Node.js, Python, and PostgreSQL**. Passionate about automation, performance optimization, and crafting seamless user experiences — with a proven record of shipping production systems for **20,000+ users** and winning multiple hackathons.
 
-```yaml
+</td>
+<td width="40%" valign="top" align="center">
+<img src="https://res.cloudinary.com/ddiw6optp/image/upload/v1783535729/ezgif-3685094a82012f26_g2stw4.gif" width="100%"/>
+</td>
+</tr>
+</table>
+<br/>
+
+<br/>
+```
+
+```
 role:              "Full Stack Developer"
 location:          "New Delhi, India"
 current_focus:     "Scalable web apps & ERP systems"
@@ -51,17 +62,10 @@ looking_for_help:  "Cloud deployment & CI/CD at scale"
 ask_me_about:      ["React", "Node.js", "Python", "PostgreSQL"]
 fun_fact:          "YouTuber with 16K+ subscribers 🎥"
 reach_me_at:       "manishkumar995852@gmail.com"
+
+
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
-<img src="https://res.cloudinary.com/ddiw6optp/video/upload/v1783534756/GIF_Manish_mkxrwf.gif" width="100%"/>
-</td>
-</tr>
-</table>
-<br/>
-
-<br/>
 
 ## 🛠️ Tech Stack
 

@@ -44,7 +44,7 @@ Full Stack Developer with hands-on experience building scalable web applications
 
 </td>
 <td width="40%" valign="top" align="center">
-<img src="https://res.cloudinary.com/ddiw6optp/image/upload/v1783535729/ezgif-3685094a82012f26_g2stw4.gif" width="100%"/>
+<img src="./ManishGIf.gif" width="100%"/>
 </td>
 </tr>
 </table>
